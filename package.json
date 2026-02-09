@@ -1,6 +1,27 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react-router-dom": "^7.13.0"
   }
 }
+=======
+  "name": "education-course-site",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
+
+
+
+
+
+>>>>>>> 7b3fef86510023b48dd5688605a6e74b03402229
